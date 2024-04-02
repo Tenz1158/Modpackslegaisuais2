@@ -1,0 +1,18 @@
+body {
+background-color: #4158D0;
+background-image: linear-gradient(43deg, #A1D7F0 0%, #F850C0 46%, #DFA107 100%);
+}
+h1 {
+  font-size: 30px;
+  font-family: cursive;
+  color: black;
+}
+h2 {
+  font-size: 30px;
+  font-family:  monospace;
+  color: black;
+}
+a {
+  color: blue;
+  text-decoration: none;
+}
