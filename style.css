@@ -2,6 +2,15 @@ body {
 background-color: #4158D0;
 background-image: linear-gradient(43deg, #A1D7F0 0%, #F850C0 46%, #DFA107 100%);
 }
+.meupau{
+  font-size: 20px;
+  font-family: Freemono,monospace;
+  background-image: linear-gradient(90deg, #CDDC39, #FFEB3B, #8BC34A);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: black;   
+}
 h1 {
   font-size: 30px;
   font-family: cursive;
